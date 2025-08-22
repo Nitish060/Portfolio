@@ -29,7 +29,7 @@ const Home = () => {
             </h1>
             <div className="home-buttons">
               <a className="btn btn-cv" href={Resume} download="Nitish_Resume.pdf">My Resume</a>
-              <a className="btn btn-hire" href="https://api.whatsapp.com/send?phone=8707273309" rel="noreferrer" target="_blank">DM Me</a>
+              <a className="btn btn-hire" href="https://api.whatsapp.com/send?phone=+918707273309" rel="noreferrer" target="_blank">DM Me</a>
             </div>
         </div>
       </div>
